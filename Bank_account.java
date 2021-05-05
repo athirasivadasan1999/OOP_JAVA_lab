@@ -25,7 +25,6 @@ public class Bank_account
         Bank_account acc_1 = new Bank_account();
         acc_1.credit(200);
         acc_1.debit(100);
-
         Bank_account acc_2 = new Bank_account();
         acc_2.credit(100);
         acc_2.debit(500);
